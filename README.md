@@ -164,5 +164,4 @@ Mais informações serão acrescentadas à este documento.
 Qualquer dúvida, entre em contato.
 
 ------------
-Rodrigo de Souza - contato@bredi.com.br
 

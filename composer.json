@@ -1,5 +1,5 @@
 {
-    "name": "bredi/imagemupload",
+    "name": "brediweb/imagemupload",
     "description": "Pacote de upload de imagens para Laravel",
     "keywords": ["upload","laravel","laravel-upload","imagem","image","resize","redimensionar"],
     "authors": [

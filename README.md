@@ -18,7 +18,7 @@ O que ele fará por você:
 
 requer Laravel >= 5.5 e PHP 7.1:
 
-``` composer require bredi/imagemupload ```  
+``` composer require brediweb/imagemupload ```  
 
 
 ## Exemplo de uso

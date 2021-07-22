@@ -1,5 +1,5 @@
 <?php
-namespace Bredi\ImagemUpload;
+namespace Brediweb\ImagemUpload;
 
 use File;
 use Illuminate\Support\Facades\Input;

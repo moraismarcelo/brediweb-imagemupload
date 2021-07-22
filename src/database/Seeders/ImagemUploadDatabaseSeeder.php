@@ -1,6 +1,6 @@
 <?php
 
-namespace Bredi\ImagemUpload\database\Seeders;
+namespace Brediweb\ImagemUpload\database\Seeders;
 
 use Illuminate\Database\Seeder;
 use Illuminate\Database\Eloquent\Model;

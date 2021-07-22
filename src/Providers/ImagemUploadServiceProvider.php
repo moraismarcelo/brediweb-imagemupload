@@ -1,6 +1,6 @@
 <?php
 
-namespace Bredi\ImagemUpload\Providers;
+namespace Brediweb\ImagemUpload\Providers;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Eloquent\Factory;

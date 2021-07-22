@@ -40,7 +40,7 @@ em seu formulário html:
 em seu **Controller** coloque as configurações:
 ```php
 
-use Bredi\ImagemUpload\ImagemUpload;
+use Brediweb\ImagemUpload\ImagemUpload;
 
  public function __construct()
  {
@@ -109,7 +109,7 @@ em seu formulário html:
 **Passo #2**
 em seu **Controller** coloque as configurações:
 ```php
-use Bredi\ImagemUpload\ImagemUpload;
+use Brediweb\ImagemUpload\ImagemUpload;
 
  public function __construct()
  {

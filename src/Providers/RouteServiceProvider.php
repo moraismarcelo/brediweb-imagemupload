@@ -12,7 +12,7 @@ class RouteServiceProvider extends ServiceProvider
      *
      * @var string
      */
-    protected $namespace = 'Bredi\ImagemUpload\Http\Controllers';
+    protected $namespace = 'Brediweb\ImagemUpload\Http\Controllers';
 
     /**
      * Called before routes are registered.

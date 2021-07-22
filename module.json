@@ -6,7 +6,7 @@
     "active": 1,
     "order": 0,
     "providers": [
-        "Bredi\\ImagemUpload\\Providers\\ImagemUploadServiceProvider"
+        "Brediweb\\ImagemUpload\\Providers\\ImagemUploadServiceProvider"
     ],
     "aliases": {},
     "files": [],

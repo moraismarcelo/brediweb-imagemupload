@@ -1,6 +1,6 @@
 > Sua contribuição ajuda na manutenção do pacote e criação de muitos outros. Faça de coração ♥
 
-> Donations [PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NGV2G9ZXPW6J8&source=url)
+
 
 # Laravel Imagem Upload
 > Faça upload de imagens ainda mais facilmente no Laravel
@@ -164,5 +164,4 @@ Mais informações serão acrescentadas à este documento.
 Qualquer dúvida, entre em contato.
 
 ------------
-Rodrigo de Souza - contato@bredi.com.br
 

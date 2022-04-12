@@ -8,7 +8,7 @@ use Brediweb\ImagemUpload\ImagemUpload;
 use Illuminate\Support\Facades\File;
 use Illuminate\Support\Facades\Response;
 use Intervention\Image\ImageManagerStatic as Image;
-use Illuminate\Support\Facades\Input;
+
 
 class ImagemUploadController extends Controller
 {

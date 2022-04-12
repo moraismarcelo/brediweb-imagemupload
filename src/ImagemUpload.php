@@ -2,8 +2,9 @@
 namespace Brediweb\ImagemUpload;
 
 use File;
-use Illuminate\Support\Facades\Input;
+use Illuminate\Support\Facades\Request;
 use Intervention\Image\ImageManagerStatic as Image;
+use Illuminate\Support\Str;
 
 class ImagemUpload {
 
@@ -35,7 +36,7 @@ class ImagemUpload {
             exit("indices \"input_file\" e \"destino\" são obrigatórios");
         }
 
-        $imagens = Input::file(str_replace('[]', '', $array['imagens']));
+        $imagens = Request::file(str_replace('[]', '', $array['imagens']));
 
         if ($array['imagens'] and $array['destino'] and isset($imagens) > 0) {
 
@@ -60,7 +61,7 @@ class ImagemUpload {
 
         $source = $imagem->getRealPath();
 
-        $nome = str_slug(pathinfo($imagem->getClientOriginalName(), PATHINFO_FILENAME));
+        $nome = Str::slug(pathinfo($imagem->getClientOriginalName(), PATHINFO_FILENAME));
 
         $array['extensao'] = $extensao = $imagem->getClientOriginalExtension();
 
